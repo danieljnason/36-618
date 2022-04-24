@@ -1,2 +1,2 @@
 # 36-618
-Time Series and Experimental Design
+This repository houses the work completed by Daniel Nason, Clare Cruz, Megan Christy, and Alana Willis for the 36-618 group time series project. We investigated and analyzed StackOverflow question count data for different topics over time and modeled them using techniques such as SARIMA and VAR. The files uploaded include the presentation, paper, and technical appendix that was jointly contributed to by each person in the group.
